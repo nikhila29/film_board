@@ -183,7 +183,7 @@ export const App = () => {
 	return (
 		<div className='wrapper'>
 			<h1>Equipments List App</h1>
-			<p>Add and view your equipments info using local storage</p>
+			<p>Add and view your equipments info </p>
 			<div className='main'>
 				<div className='form-container'>
 					{
